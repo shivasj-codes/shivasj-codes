@@ -30,7 +30,6 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 </p>
 
 <br/>
-<br/>
 
 <div align="center">
 
