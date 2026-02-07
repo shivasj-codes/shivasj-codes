@@ -18,6 +18,8 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
+<br>
+
 <!--Profile Count Badge-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shiva607&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
