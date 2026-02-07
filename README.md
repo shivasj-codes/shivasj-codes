@@ -21,24 +21,24 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 
 <div align="center">
 
-<a href="mailto:jshivasankar607@gmail.com" style="display:inline-block; margin: 0 12px;">
-  <img src="./gmail.png" width="50" height="50" style="display:block; max-width:100%;" alt="Email" />
+<a href="mailto:jshivasankar607@gmail.com">
+  <img src="./gmail.png" width="50" height="50" alt="Email" />
 </a>
-
-<a href="https://www.instagram.com/shiva_sankar_j/" target="_blank" style="display:inline-block; margin: 0 12px;">
-  <img src="./instagram.png" width="50" height="50" style="display:block; max-width:100%;" alt="Instagram" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
+  <img src="./instagram.png" width="50" height="50" alt="Instagram" />
 </a>
-
-<a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank" style="display:inline-block; margin: 0 12px;">
-  <img src="./linkedin.png" width="50" height="50" style="display:block; max-width:100%;" alt="LinkedIn" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
+  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
 </a>
-
-<a href="https://github.com/Shiva607" target="_blank" style="display:inline-block; margin: 0 12px;">
-  <img src="./github.png" width="50" height="50" style="display:block; max-width:100%;" alt="GitHub" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Shiva607" target="_blank">
+  <img src="./github.png" width="50" height="50" alt="GitHub" />
 </a>
-
-<a href="https://x.com/your_twitter_handle" target="_blank" style="display:inline-block; margin: 0 12px;">
-  <img src="./twitter.png" width="50" height="50" style="display:block; max-width:100%;" alt="Twitter" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/your_twitter_handle" target="_blank">
+  <img src="./twitter.png" width="50" height="50" alt="Twitter" />
 </a>
 
 </div>
