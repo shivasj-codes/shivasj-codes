@@ -1,14 +1,18 @@
-<div align="center">
+![Shiva607 Banner Image](./banner.png)
 
-# 💫 About Me
+# ɪ'ᴍ sʜɪᴠᴀ sᴀɴᴋᴀʀ ᴊ! *Full Stack Developer / QA Automation Expert*
 
-</div>
+I am a Full Stack Developer and QA Automation Specialist with over **4 years of experience** building scalable and user-focused web applications. I specialize in **React** on the frontend and **Node.js** on the backend, with strong expertise in REST APIs, database design, testing frameworks, and modern development workflows.
 
-I'm **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** with over **4 years of experience** building scalable and user-focused web applications. I specialise in **React** on the frontend and **Node.js** on the backend, with a strong understanding of REST APIs, database design, and modern development workflows. I focus on writing clean, maintainable code and building solutions that solve real-world problems.
-
-I have hands-on experience working on **production-grade full-stack applications**, covering features such as authentication, role-based access, data management, business workflows, and API integrations. Alongside development, I also have knowledge of **testing and automation**, and I actively use **AI tools** to improve productivity, code quality, and problem-solving efficiency. I'm continuously learning and upgrading my skills through **Udemy certifications** and practical implementation.
-
-I'm passionate about technology, enjoy exploring new tools and frameworks, and believe in continuous improvement.
+- ✨ Lifelong learner and tech enthusiast :)
+- 🌱 Currently exploring advanced testing automation and cloud technologies
+- 💼 Hands-on experience with production-grade full-stack applications
+- 🔧 Building features: authentication, role-based access, data management, business workflows, API integrations
+- 🤖 Leveraging AI tools to enhance productivity and code quality
+- 📚 Continuously upskilling through Udemy certifications and practical implementation
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- ❤ Passionate about technology and solving real-world problems
+- 💻 Visit my [Portfolio](https://shiva607.github.io) for more details about me
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
