@@ -19,7 +19,7 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <!-- Contact Section -->
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
-<div align="center">
+<div align="center" style="margin: 30px 0; letter-spacing: 12px;">
 
 <a href="mailto:jshivasankar607@gmail.com" target="_blank">
   <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;"/>
