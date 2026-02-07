@@ -21,29 +21,27 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 
 <div align="center">
 
-<a href="mailto:jshivasankar607@gmail.com">
+<a href="mailto:jshivasankar607@gmail.com" style="text-decoration: none;">
   <img src="./gmail.png" width="50" height="50" alt="Email" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
+<a href="https://www.instagram.com/shiva_sankar_j/" target="_blank" style="text-decoration: none;">
   <img src="./instagram.png" width="50" height="50" alt="Instagram" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
+<a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank" style="text-decoration: none;">
   <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Shiva607" target="_blank">
+<a href="https://github.com/Shiva607" target="_blank" style="text-decoration: none;">
   <img src="./github.png" width="50" height="50" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/your_twitter_handle" target="_blank">
+<a href="https://x.com/your_twitter_handle" target="_blank" style="text-decoration: none;">
   <img src="./twitter.png" width="50" height="50" alt="Twitter" />
 </a>
 
 </div>
-
-
 <br/>
 
 <!--Footer-->
