@@ -12,7 +12,8 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
----
+<br/>
+<br/>
 
 <div align="center">
 
@@ -111,7 +112,8 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
 
@@ -133,7 +135,8 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
 
@@ -145,7 +148,8 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
 
@@ -177,7 +181,8 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 </div>
 
----
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
