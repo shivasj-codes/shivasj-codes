@@ -133,17 +133,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <div align="center">
 
-<h1 align="center">
-  <img
-    src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-    width="35"
-    style="vertical-align: middle;"
-  />
-  <span style="vertical-align: middle; margin-left: 8px;">
-    GitHub Stats
-  </span>
-</h1>
-
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"/> GitHub Stats
 
 <br/>
 
