@@ -33,7 +33,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <div align="center">
 
-# 💻 Tech Stack
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> Tech Stack
 
 <br/>
 
@@ -133,7 +133,10 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <div align="center">
 
-# 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-bottom: -5px;"/> 
+  GitHub Stats
+</h1>
 
 <br/>
 
@@ -156,7 +159,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <div align="center">
 
-# ✍️ Random Dev Quote
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" width="30"/> Random Dev Quote
 
 <br/>
 
@@ -169,7 +172,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <div align="center">
 
-# 🌐 Connect With Me 🤝
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="30"/> Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/>
 
 <br/>
 
