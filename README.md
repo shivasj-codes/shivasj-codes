@@ -14,7 +14,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 - 📚 Continuously upskilling through Udemy certifications and practical implementation
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20"/> Focused on writing clean, maintainable, and scalable code
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" width="20"/> Passionate about technology and solving real-world problems
-- 🔧 Visit my [Portfolio](https://github.com/shivasj-codes) for more details about me
+- 🖥️ Visit my [Portfolio](https://github.com/shivasj-codes) for more details about me
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
